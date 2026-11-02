@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ybqhpcammih4"
-path="res://.godot/imported/decorative_cracks_coasts_animation.png-908648f64a747bc4c6a7607e734116f0.ctex"
+uid="uid://d2vjujalhlxf7"
+path="res://.godot/imported/World_Tree_Roots_2D_Platformer_Tileset_Platformer - Ground 08.png-2dc43e8ce8049c8c903c2a34516248fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/tileset/decorative_cracks_coasts_animation.png"
-dest_files=["res://.godot/imported/decorative_cracks_coasts_animation.png-908648f64a747bc4c6a7607e734116f0.ctex"]
+source_file="res://assets/tileset/platformer/World_Tree_Roots_2D_Platformer_Tileset_Platformer - Ground 08.png"
+dest_files=["res://.godot/imported/World_Tree_Roots_2D_Platformer_Tileset_Platformer - Ground 08.png-2dc43e8ce8049c8c903c2a34516248fe.ctex"]
 
 [params]
 
